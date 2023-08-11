@@ -727,7 +727,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &130375013
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2024,6 +2024,26 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 130375016}
     m_Modifications:
+    - target: {fileID: 1083667654800834128, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -38.19995
+      objectReference: {fileID: 0}
+    - target: {fileID: 1617222623125222393, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -66.1001
+      objectReference: {fileID: 0}
+    - target: {fileID: 1831404763873973429, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: -83.80005
+      objectReference: {fileID: 0}
+    - target: {fileID: 1831404763873973429, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -32.899902
+      objectReference: {fileID: 0}
+    - target: {fileID: 2346172503802768524, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -38.19995
+      objectReference: {fileID: 0}
     - target: {fileID: 3974939982030907570, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
       propertyPath: m_Name
       value: ClassicLudoGamePlay
@@ -2115,6 +2135,18 @@ PrefabInstance:
     - target: {fileID: 3974939982030907571, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4233385174039797515, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -17.681152
+      objectReference: {fileID: 0}
+    - target: {fileID: 6967675992947318611, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 36.69995
+      objectReference: {fileID: 0}
+    - target: {fileID: 6967675992947318611, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -38.69995
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 27811c6055bd8884eb26abd90af85acc, type: 3}
